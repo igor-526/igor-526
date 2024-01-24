@@ -4,22 +4,22 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/devil_on_the_wheel">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://wa.me/+79117488008">
+    <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/igor526/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="igor-526@yandex.ru">
     <img src="https://img.shields.io/badge/email-orange?style=for-the-badge&logo=mail.ru&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 <div id="view_counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=igor-5266&color=blue&style=for-the-badge&label=ПРОСМОТРЫ"/>
+  <img src="https://komarev.com/ghpvc/?username=igor-526&color=blue&style=for-the-badge&label=ПРОСМОТРЫ"/>
 </div>
 
 <h1>
@@ -33,13 +33,13 @@
 ### :man_technologist: Обо мне:<br>
 Я Python Backend
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"/>
-разработчик из России<br>
+Developer из России<br>
 
-- На данный момент я нахожусь в поиске своей первой работы
-- Люблю автоматизировать всё, что только возможно. Считаю странным, когда люди ежедневно часами выполняют ту работу, которую компьютер может выполнить за час
-- Все мои Pet-проекты тестировались большим количеством людей. А этим, например, пользуется весь Санкт-Петербург
-- В свободное время предпочитаю изучить новые для себя технологии/подходы к разработке
-- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/TG-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- :telescope: На данный момент я нахожусь в поиске своей первой работы
+- :hourglass_flowing_sand: Люблю автоматизировать всё, что только возможно. Считаю странным, когда люди ежедневно часами выполняют ту работу, которую компьютер может выполнить за час
+- :trophy: Все мои Pet-проекты тестировались большим количеством людей. А этим, например, пользуется весь Санкт-Петербург
+- :crescent_moon: В свободное время предпочитаю изучить новые для себя технологии/подходы к разработке
+- :incoming_envelope: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/TG-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/devil_on_the_wheel)
 
 ---
 
@@ -58,3 +58,9 @@
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+### :fire: Статистика:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igor-526&theme=dark&)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-526&theme=dark&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
